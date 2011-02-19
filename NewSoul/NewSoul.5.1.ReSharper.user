@@ -1,0 +1,269 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="2A368A85-BD34-4C88-81C9-37A0D029B82D/f:Global.asax.cs" caret="806" fromTop="25" />
+      <File id="9C8E17FB-4BB3-49E4-A931-9D3432930F99/d:Controllers/f:HomeControllerFacts.cs" caret="485" fromTop="19" />
+      <File id="014F89FA-4DDE-4C28-A4E9-66CA1664B886/f:IBaseEntity.cs" caret="170" fromTop="10" />
+      <File id="014F89FA-4DDE-4C28-A4E9-66CA1664B886/f:Profile.cs" caret="79" fromTop="6" />
+      <File id="014F89FA-4DDE-4C28-A4E9-66CA1664B886/f:Role.cs" caret="76" fromTop="6" />
+      <File id="014F89FA-4DDE-4C28-A4E9-66CA1664B886/f:User.cs" caret="213" fromTop="11" />
+      <File id="2A368A85-BD34-4C88-81C9-37A0D029B82D/d:Views/d:Image/f:Create.cshtml" caret="903" fromTop="29" />
+      <File id="2A368A85-BD34-4C88-81C9-37A0D029B82D/d:Views/d:Shared/f:_Layout.cshtml" caret="740" fromTop="24" />
+      <File id="2A368A85-BD34-4C88-81C9-37A0D029B82D/d:Views/d:Image/f:Index.cshtml" caret="150" fromTop="8" />
+      <File id="CAAEA3FA-3586-4716-B677-89B686B79B17/d:Images/f:IImageRepository.cs" caret="276" fromTop="14" />
+      <File id="CAAEA3FA-3586-4716-B677-89B686B79B17/d:Interfaces/f:IEntityRepository.cs" caret="440" fromTop="16" />
+      <File id="DB71366F-6835-4055-97D5-9C87F65BEB04/d:Model/f:ModelStateEnum.cs" caret="31" fromTop="2" />
+      <File id="DB71366F-6835-4055-97D5-9C87F65BEB04/d:Model/f:MessageSourceEnum.cs" caret="14" fromTop="0" />
+      <File id="DB71366F-6835-4055-97D5-9C87F65BEB04/d:Model/f:State.cs" caret="309" fromTop="15" />
+      <File id="2A368A85-BD34-4C88-81C9-37A0D029B82D/d:Controllers/f:ImageController.cs" caret="656" fromTop="35" />
+      <File id="014F89FA-4DDE-4C28-A4E9-66CA1664B886/f:Arguments.cs" caret="253" fromTop="14" />
+      <File id="2A368A85-BD34-4C88-81C9-37A0D029B82D/d:Controllers/f:HomeController.cs" caret="439" fromTop="20" />
+      <File id="4B1E967E-A672-4FC6-BE35-C116DF2001B5/d:Images/f:ImageService.cs" caret="618" fromTop="23" />
+      <File id="9A2C09AB-C880-47B5-A3C3-B984B0BBBD08/f:BaseViewObject.cs" caret="448" fromTop="20" />
+      <File id="014F89FA-4DDE-4C28-A4E9-66CA1664B886/f:Company.cs" caret="244" fromTop="15" />
+      <File id="014F89FA-4DDE-4C28-A4E9-66CA1664B886/f:BaseEntity.cs" caret="272" fromTop="15" />
+      <File id="014F89FA-4DDE-4C28-A4E9-66CA1664B886/f:Image.cs" caret="221" fromTop="13" />
+      <File id="4B1E967E-A672-4FC6-BE35-C116DF2001B5/f:ValidationService.cs" caret="736" fromTop="24" />
+      <File id="CAAEA3FA-3586-4716-B677-89B686B79B17/d:Images/f:ImageRepository.cs" caret="1558" fromTop="39" />
+      <File id="9A2C09AB-C880-47B5-A3C3-B984B0BBBD08/d:Images/f:ImageViewObject.cs" caret="316" fromTop="18" />
+      <File id="4B1E967E-A672-4FC6-BE35-C116DF2001B5/d:Mappings/f:AutomapperConfiguration.cs" caret="48" fromTop="1" />
+      <File id="DB71366F-6835-4055-97D5-9C87F65BEB04/f:ServiceSecurityInterceptor.cs" caret="397" fromTop="19" />
+      <File id="014F89FA-4DDE-4C28-A4E9-66CA1664B886/d:Configuration/f:NewSoulContext.cs" caret="486" fromTop="22" />
+      <File id="DB71366F-6835-4055-97D5-9C87F65BEB04/d:Attributes/f:SecureAttribute.cs" caret="216" fromTop="14" />
+      <File id="014F89FA-4DDE-4C28-A4E9-66CA1664B886/f:Component.cs" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="2A368A85-BD34-4C88-81C9-37A0D029B82D/d:Controllers/f:ImageController.cs" caret="425" fromTop="21" />
+      <File id="014F89FA-4DDE-4C28-A4E9-66CA1664B886/f:Arguments.cs" caret="239" fromTop="11" />
+      <File id="014F89FA-4DDE-4C28-A4E9-66CA1664B886/f:Arguments.cs" caret="140" fromTop="7" />
+      <File id="014F89FA-4DDE-4C28-A4E9-66CA1664B886/f:Component.cs" caret="339" fromTop="13" />
+      <File id="014F89FA-4DDE-4C28-A4E9-66CA1664B886/f:Component.cs" caret="214" fromTop="9" />
+      <File id="014F89FA-4DDE-4C28-A4E9-66CA1664B886/f:Component.cs" caret="0" fromTop="0" />
+      <File id="9A2C09AB-C880-47B5-A3C3-B984B0BBBD08/f:BaseViewObject.cs" caret="346" fromTop="14" />
+      <File id="9A2C09AB-C880-47B5-A3C3-B984B0BBBD08/f:BaseViewObject.cs" caret="545" fromTop="24" />
+      <File id="9A2C09AB-C880-47B5-A3C3-B984B0BBBD08/f:BaseViewObject.cs" caret="415" fromTop="19" />
+      <File id="9A2C09AB-C880-47B5-A3C3-B984B0BBBD08/d:Images/f:ImageViewObject.cs" caret="318" fromTop="18" />
+      <File id="4B1E967E-A672-4FC6-BE35-C116DF2001B5/f:ValidationService.cs" caret="553" fromTop="15" />
+      <File id="4B1E967E-A672-4FC6-BE35-C116DF2001B5/f:ValidationService.cs" caret="679" fromTop="20" />
+      <File id="4B1E967E-A672-4FC6-BE35-C116DF2001B5/d:Mappings/f:AutomapperConfiguration.cs" caret="331" fromTop="11" />
+      <File id="4B1E967E-A672-4FC6-BE35-C116DF2001B5/d:Mappings/f:AutomapperConfiguration.cs" caret="364" fromTop="20" />
+      <File id="014F89FA-4DDE-4C28-A4E9-66CA1664B886/f:Image.cs" caret="137" fromTop="7" />
+      <File id="CAAEA3FA-3586-4716-B677-89B686B79B17/d:Images/f:ImageRepository.cs" caret="2078" fromTop="79" />
+      <File id="CAAEA3FA-3586-4716-B677-89B686B79B17/d:Images/f:ImageRepository.cs" caret="2078" fromTop="12" />
+      <File id="CAAEA3FA-3586-4716-B677-89B686B79B17/d:Images/f:ImageRepository.cs" caret="2078" fromTop="43" />
+      <File id="CAAEA3FA-3586-4716-B677-89B686B79B17/d:Images/f:ImageRepository.cs" caret="2078" fromTop="79" />
+      <File id="CAAEA3FA-3586-4716-B677-89B686B79B17/d:Images/f:ImageRepository.cs" caret="528" fromTop="23" />
+      <File id="CAAEA3FA-3586-4716-B677-89B686B79B17/d:Images/f:ImageRepository.cs" caret="1567" fromTop="39" />
+      <File id="DB71366F-6835-4055-97D5-9C87F65BEB04/f:ServiceSecurityInterceptor.cs" caret="541" fromTop="19" />
+      <File id="9A2C09AB-C880-47B5-A3C3-B984B0BBBD08/d:Images/f:ImageViewObject.cs" caret="262" fromTop="14" />
+      <File id="9A2C09AB-C880-47B5-A3C3-B984B0BBBD08/d:Images/f:ImageViewObject.cs" caret="0" fromTop="0" />
+      <File id="DB71366F-6835-4055-97D5-9C87F65BEB04/f:ServiceSecurityInterceptor.cs" caret="399" fromTop="19" />
+      <File id="DB71366F-6835-4055-97D5-9C87F65BEB04/f:ServiceSecurityInterceptor.cs" caret="565" fromTop="27" />
+      <File id="DB71366F-6835-4055-97D5-9C87F65BEB04/f:ServiceSecurityInterceptor.cs" caret="566" fromTop="27" />
+      <File id="DB71366F-6835-4055-97D5-9C87F65BEB04/f:ServiceSecurityInterceptor.cs" caret="348" fromTop="14" />
+      <File id="DB71366F-6835-4055-97D5-9C87F65BEB04/d:Attributes/f:SecureAttribute.cs" caret="103" fromTop="4" />
+      <File id="DB71366F-6835-4055-97D5-9C87F65BEB04/d:Attributes/f:SecureAttribute.cs" caret="198" fromTop="10" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.9\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Image`0" priority="17" />
+      <Item value="public" priority="41" />
+      <Item value="ImageConfiguration`0" priority="0" />
+      <Item value="Property`0" priority="0" />
+      <Item value="image" priority="5" />
+      <Item value="int" priority="8" />
+      <Item value="ModelBuilder`0" priority="0" />
+      <Item value="DbSet" priority="4" />
+      <Item value="string" priority="8" />
+      <Item value="using" priority="11" />
+      <Item value="System" priority="6" />
+      <Item value="Data" priority="0" />
+      <Item value="Web" priority="2" />
+      <Item value="ICloneable`0" priority="0" />
+      <Item value="DataType`0" priority="0" />
+      <Item value="AutoMapper" priority="2" />
+      <Item value="AutomapperConfiguration`0" priority="1" />
+      <Item value="Mapper`0" priority="2" />
+      <Item value="static" priority="4" />
+      <Item value="Services" priority="0" />
+      <Item value="Mappings" priority="0" />
+      <Item value="Bootstrapper`0" priority="0" />
+      <Item value="Entities" priority="2" />
+      <Item value="ViewObjects" priority="2" />
+      <Item value="Images" priority="5" />
+      <Item value="Security" priority="1" />
+      <Item value="return" priority="11" />
+      <Item value="void" priority="2" />
+      <Item value="ref" priority="1" />
+      <Item value="Guid`0" priority="2" />
+      <Item value="List" priority="6" />
+      <Item value="Func" priority="2" />
+      <Item value="where" priority="2" />
+      <Item value="new" priority="13" />
+      <Item value="List&lt;Image&gt;" priority="1" />
+      <Item value="throw" priority="0" />
+      <Item value="NotImplementedException`0" priority="0" />
+      <Item value="var" priority="9" />
+      <Item value="imageList" priority="0" />
+      <Item value="Linq" priority="1" />
+      <Item value="Expressions" priority="0" />
+      <Item value="searchCriteria" priority="0" />
+      <Item value="db" priority="9" />
+      <Item value="resultList" priority="0" />
+      <Item value="GetList`0" priority="2" />
+      <Item value="ImageContext`0" priority="2" />
+      <Item value="T`0" priority="0" />
+      <Item value="orderCriteria" priority="0" />
+      <Item value="pageNumber" priority="0" />
+      <Item value="Func&lt;Image,bool&gt;" priority="0" />
+      <Item value="null" priority="1" />
+      <Item value="DBNull`0" priority="0" />
+      <Item value="HashSet" priority="0" />
+      <Item value="bool" priority="1" />
+      <Item value="Flags" priority="0" />
+      <Item value="BaseEntity`0" priority="0" />
+      <Item value="ImageController`0" priority="0" />
+      <Item value="ImageService`0" priority="0" />
+      <Item value="private" priority="2" />
+      <Item value="readonly" priority="1" />
+      <Item value="_imageRepository" priority="0" />
+      <Item value="imageRepository" priority="0" />
+      <Item value="true" priority="1" />
+      <Item value="ValidationContext`0" priority="0" />
+      <Item value="ValidationContext" priority="0" />
+      <Item value="ValidationResult`0" priority="0" />
+      <Item value="validationResults" priority="1" />
+      <Item value="else" priority="0" />
+      <Item value="viewObject" priority="3" />
+      <Item value="IBaseViewObject`0" priority="0" />
+      <Item value="State" priority="1" />
+      <Item value="State`0" priority="0" />
+      <Item value="_state" priority="1" />
+      <Item value="value" priority="1" />
+      <Item value="Valid" priority="0" />
+      <Item value="CurrentStateEnum`0" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="validationResult" priority="0" />
+      <Item value="IValidatableObject`0" priority="0" />
+      <Item value="ModelState`0" priority="3" />
+      <Item value="SortedList" priority="1" />
+      <Item value="Arguments`0" priority="0" />
+      <Item value="_arguments" priority="1" />
+      <Item value="SortedList&lt;int,Argument&gt;" priority="0" />
+      <Item value="Comparer" priority="0" />
+      <Item value="Required" priority="0" />
+      <Item value="IBaseEntity`0" priority="0" />
+      <Item value="abstract" priority="0" />
+      <Item value="type" priority="0" />
+      <Item value="typeof" priority="0" />
+      <Item value="Attribute`0" priority="0" />
+      <Item value="Length" priority="0" />
+      <Item value="target" priority="1" />
+      <Item value="SettingsBindableAttribute`0" priority="0" />
+      <Item value="InstanceInterceptor`0" priority="0" />
+      <Item value="context" priority="0" />
+      <Item value="Castle" priority="1" />
+      <Item value="DynamicProxy" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.ModelConfiguration.Configuration.Properties.Primitive.Api.PrimitivePropertyConfiguration`1">
+      <Item value="IsRequired`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@AutoMapper.Mapper">
+      <Item value="CreateMap`0" priority="0" />
+      <Item value="Map`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Services.Mappings.AutomapperConfiguration">
+      <Item value="Configure`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NewSoul_Web.Bootstrapper">
+      <Item value="Configure`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="BinarySearch`0" priority="0" />
+      <Item value="Where`1" priority="0" />
+      <Item value="FirstOrDefault`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Select`2" priority="0" />
+      <Item value="ToList`1" priority="1" />
+      <Item value="OrderBy`2" priority="0" />
+      <Item value="Take`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Entities.Image">
+      <Item value="Description" priority="4" />
+      <Item value="ID" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Entities.Configuration.ImageContext">
+      <Item value="Images" priority="7" />
+      <Item value="SaveChanges`0" priority="1" />
+      <Item value="ChangeTracker" priority="2" />
+      <Item value="Database" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.DbSet`1">
+      <Item value="Where`1" priority="1" />
+      <Item value="Add`0" priority="0" />
+      <Item value="Attach`0" priority="1" />
+      <Item value="Remove`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="FirstOrDefault`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IOrderedEnumerable`1">
+      <Item value="Skip`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Guid">
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.Infrastructure.DbChangeTracker">
+      <Item value="DetectChanges`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ComponentModel.DataAnnotations.Validator">
+      <Item value="TryValidateObject`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:">
+      <Item value="State" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.State">
+      <Item value="CurrentState" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Common.CurrentStateEnum">
+      <Item value="Persisted" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ComponentModel.DataAnnotations.ValidationResult">
+      <Item value="ErrorMessage" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Collections.Generic.Comparer`1">
+      <Item value="Default" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AutoMapper.IMappingExpression">
+      <Item value="ForMember`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="Attributes" priority="0" />
+      <Item value="GetCustomAttributes`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

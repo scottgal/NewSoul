@@ -1,0 +1,14 @@
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web\bin\NewSoul_Web.dll
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web\bin\NewSoul_Web.pdb
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web\bin\Services.dll
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web\bin\Entities.dll
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web\bin\ViewObjects.dll
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web\bin\AutoMapper.dll
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web\bin\Common.dll
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web\bin\Services.pdb
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web\bin\Entities.pdb
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web\bin\ViewObjects.pdb
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web\bin\Common.pdb
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web\obj\Debug\NewSoul_Web.dll
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web\obj\Debug\NewSoul_Web.pdb

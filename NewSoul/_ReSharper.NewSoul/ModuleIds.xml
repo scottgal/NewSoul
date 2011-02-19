@@ -1,0 +1,9 @@
+<Modules>
+  <Module PersistentId="2A368A85-BD34-4C88-81C9-37A0D029B82D" ModuleId="NewSoul_Web" />
+  <Module PersistentId="014F89FA-4DDE-4C28-A4E9-66CA1664B886" ModuleId="Entities" />
+  <Module PersistentId="9A2C09AB-C880-47B5-A3C3-B984B0BBBD08" ModuleId="ViewObjects" />
+  <Module PersistentId="4B1E967E-A672-4FC6-BE35-C116DF2001B5" ModuleId="Services" />
+  <Module PersistentId="9C8E17FB-4BB3-49E4-A931-9D3432930F99" ModuleId="NewSoul_Web.Tests" />
+  <Module PersistentId="DB71366F-6835-4055-97D5-9C87F65BEB04" ModuleId="Common" />
+  <Module PersistentId="CAAEA3FA-3586-4716-B677-89B686B79B17" ModuleId="Repository" />
+</Modules>

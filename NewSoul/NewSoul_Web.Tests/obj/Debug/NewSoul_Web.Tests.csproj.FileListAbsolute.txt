@@ -1,0 +1,17 @@
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web.Tests\bin\Debug\NewSoul_Web.Tests.dll
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web.Tests\bin\Debug\NewSoul_Web.Tests.pdb
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web.Tests\bin\Debug\NewSoul_Web.dll
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web.Tests\bin\Debug\xunit.dll
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web.Tests\bin\Debug\Services.dll
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web.Tests\bin\Debug\Entities.dll
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web.Tests\bin\Debug\ViewObjects.dll
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web.Tests\bin\Debug\AutoMapper.dll
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web.Tests\bin\Debug\Common.dll
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web.Tests\bin\Debug\NewSoul_Web.pdb
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web.Tests\bin\Debug\Services.pdb
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web.Tests\bin\Debug\Entities.pdb
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web.Tests\bin\Debug\ViewObjects.pdb
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web.Tests\bin\Debug\Common.pdb
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web.Tests\obj\Debug\NewSoul_Web.Tests.dll
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\NewSoul_Web.Tests\obj\Debug\NewSoul_Web.Tests.pdb

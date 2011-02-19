@@ -1,0 +1,7 @@
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\Entities\bin\Debug\Entities.dll
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\Entities\bin\Debug\Entities.pdb
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\Entities\bin\Debug\Common.dll
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\Entities\bin\Debug\Common.pdb
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\Entities\obj\Debug\Entities.dll
+C:\Users\Scott_Galloway\documents\visual studio 2010\Projects\NewSoul\Entities\obj\Debug\Entities.pdb
